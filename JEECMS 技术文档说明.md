@@ -3,10 +3,10 @@ JEECMS 技术文档说明
 
 ## 包路径说明
 
-
-
-    com.jeecms.cms.action.directive    jeecms标签
-    com.jeecms.cms.api.front  后台管理
+| 包路径 |说明  |
+|--|--|
+| com.jeecms.cms.action.directive | jeecms标签  |
+| com.jeecms.cms.api.front |  后台管理|
 
 ## Switch to another file
 
@@ -139,6 +139,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MDYzODQ5MywtMTU2MzE4NDY0NywtMj
+eyJoaXN0b3J5IjpbMTY0NDIxODYwNywtMTU2MzE4NDY0NywtMj
 A3MjY1MTc2Ml19
 -->
