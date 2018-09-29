@@ -13,7 +13,7 @@ JEECMS 技术文档说明
 
 |  URL| 说明 |
 |--|--|
-|  |  |
+| api/admin/content/save | 保存文章 |
 |  |  |
 |  |  |
 |  |  |
@@ -145,6 +145,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNTYyNDMwNyw5ODU1MTk1MywtMTU2Mz
-E4NDY0NywtMjA3MjY1MTc2Ml19
+eyJoaXN0b3J5IjpbLTE1MjQzMzA3NDUsOTg1NTE5NTMsLTE1Nj
+MxODQ2NDcsLTIwNzI2NTE3NjJdfQ==
 -->
