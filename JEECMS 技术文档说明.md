@@ -4,7 +4,7 @@ JEECMS 技术文档说明
 ## 包路径说明
 
     com.jeecms.cms.action.directive    jeecms标签
-    com.jeecms.cms.api.front  后台管理a
+    com.jeecms.cms.api.front  后台管理
 
 ## Switch to another file
 
@@ -137,5 +137,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NzkyMzg1NiwtMjA3MjY1MTc2Ml19
+eyJoaXN0b3J5IjpbLTE1NjMxODQ2NDcsLTIwNzI2NTE3NjJdfQ
+==
 -->
