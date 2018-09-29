@@ -6,7 +6,7 @@ JEECMS 技术文档说明
 | 包路径 |说明  |
 |--|--|
 | com.jeecms.cms.action.directive | jeecms标签  |
-| com.jeecms.cms.api.front |  后台管理|
+| com.jeecms.cms.api.front | 后台管理|
 
 ## Switch to another file
 
@@ -139,6 +139,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NDIxODYwNywtMTU2MzE4NDY0NywtMj
-A3MjY1MTc2Ml19
+eyJoaXN0b3J5IjpbOTg1NTE5NTMsLTE1NjMxODQ2NDcsLTIwNz
+I2NTE3NjJdfQ==
 -->
