@@ -11,10 +11,10 @@ JEECMS 技术文档说明
 
 ## URL 方法说明
 
-|  URL| 说明 |
-|--|--|
-| api/admin/content/save | 文章保存 |
-| api/admin/content/list | 内容列表 |
+|  URL|对应类 说明 |
+|--|--|--|
+| api/admin/content/save| | 文章保存 |
+| api/admin/content/list| | 内容列表 |
 |  |  |
 |  |  |
 
@@ -145,7 +145,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ3NzY3MzMxLDY2NDA3NzQ3NSwtMTUyND
-MzMDc0NSw5ODU1MTk1MywtMTU2MzE4NDY0NywtMjA3MjY1MTc2
-Ml19
+eyJoaXN0b3J5IjpbMTEwMDI1NDQ2OSw1NDc3NjczMzEsNjY0MD
+c3NDc1LC0xNTI0MzMwNzQ1LDk4NTUxOTUzLC0xNTYzMTg0NjQ3
+LC0yMDcyNjUxNzYyXX0=
 -->
