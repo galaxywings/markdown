@@ -11,7 +11,7 @@ JEECMS 技术文档说明
 
 ## URL 方法说明
 
-|  URL|对应类 说明 |
+|  URL|对应类| 说明 |
 |--|--|--|
 | api/admin/content/save| | 文章保存 |
 | api/admin/content/list| | 内容列表 |
@@ -145,7 +145,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMDI1NDQ2OSw1NDc3NjczMzEsNjY0MD
-c3NDc1LC0xNTI0MzMwNzQ1LDk4NTUxOTUzLC0xNTYzMTg0NjQ3
-LC0yMDcyNjUxNzYyXX0=
+eyJoaXN0b3J5IjpbMjM4OTQ4MDg5LDU0Nzc2NzMzMSw2NjQwNz
+c0NzUsLTE1MjQzMzA3NDUsOTg1NTE5NTMsLTE1NjMxODQ2NDcs
+LTIwNzI2NTE3NjJdfQ==
 -->
