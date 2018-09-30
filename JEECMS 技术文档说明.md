@@ -11,11 +11,11 @@ JEECMS 技术文档说明
 
 ## URL 方法说明
 
-|  URL|对应类| 说明 |
+|  URL|对应路径| 说明 |
 |--|--|--|
-| api/admin/content/save| | 文章保存 |
+| api/admin/content/save|com.jeecms.cms.api.member | 文章保存 |
 | api/admin/content/list| | 内容列表 |
-|  |  |
+|  |  ||
 |  |  |
 
 ## Rename a file
@@ -145,7 +145,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM4OTQ4MDg5LDU0Nzc2NzMzMSw2NjQwNz
+eyJoaXN0b3J5IjpbNjk5Nzc0NjcwLDU0Nzc2NzMzMSw2NjQwNz
 c0NzUsLTE1MjQzMzA3NDUsOTg1NTE5NTMsLTE1NjMxODQ2NDcs
 LTIwNzI2NTE3NjJdfQ==
 -->
