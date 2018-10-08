@@ -13,8 +13,8 @@ JEECMS 技术文档说明
 
 |  URL|对应路径|类 |说明 |
 |--|--|--|--|
-| api/admin/content/save|com.jeecms.cms.api.member | 文章保存 |
-| api/admin/content/list|com.jeecms.cms.api.admin.main| 内容列表 |
+| api/admin/content/save|com.jeecms.cms.api.member |ContentApiAct| 文章保存 |
+| api/admin/content/list|com.jeecms.cms.api.admin.main|| 内容列表 |
 |  |  ||
 |  |  |
 
@@ -145,8 +145,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTUxMzIyNjQsLTEzODg1MDQ2MTMsNj
-k5Nzc0NjcwLDU0Nzc2NzMzMSw2NjQwNzc0NzUsLTE1MjQzMzA3
-NDUsOTg1NTE5NTMsLTE1NjMxODQ2NDcsLTIwNzI2NTE3NjJdfQ
-==
+eyJoaXN0b3J5IjpbLTg5OTU4NTQ1MSwtMTM4ODUwNDYxMyw2OT
+k3NzQ2NzAsNTQ3NzY3MzMxLDY2NDA3NzQ3NSwtMTUyNDMzMDc0
+NSw5ODU1MTk1MywtMTU2MzE4NDY0NywtMjA3MjY1MTc2Ml19
 -->
