@@ -18,7 +18,7 @@ JEECMS 技术文档说明
 |  |  ||
 |  |  |
 
-## Rename a file
+## 表说明
 
 You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
 
@@ -145,7 +145,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5OTU4NTQ1MSwtMTM4ODUwNDYxMyw2OT
-k3NzQ2NzAsNTQ3NzY3MzMxLDY2NDA3NzQ3NSwtMTUyNDMzMDc0
-NSw5ODU1MTk1MywtMTU2MzE4NDY0NywtMjA3MjY1MTc2Ml19
+eyJoaXN0b3J5IjpbLTk2MDg0ODI2MiwtODk5NTg1NDUxLC0xMz
+g4NTA0NjEzLDY5OTc3NDY3MCw1NDc3NjczMzEsNjY0MDc3NDc1
+LC0xNTI0MzMwNzQ1LDk4NTUxOTUzLC0xNTYzMTg0NjQ3LC0yMD
+cyNjUxNzYyXX0=
 -->
