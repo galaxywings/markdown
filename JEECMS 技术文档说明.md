@@ -21,7 +21,7 @@ JEECMS 技术文档说明
 ## 表说明
 | 表名称 |说明  |
 |--|--|
-| com.jeecms.cms.action.directive | jeecms标签  |
+|jc_config| cms的配置文件|
 | com.jeecms.cms.api.front | 后台管理|
 |  |  |
 
@@ -151,7 +151,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTI0Mzc4NCwtODk5NTg1NDUxLC0xMz
+eyJoaXN0b3J5IjpbLTkyMDMxMTY0NSwtODk5NTg1NDUxLC0xMz
 g4NTA0NjEzLDY5OTc3NDY3MCw1NDc3NjczMzEsNjY0MDc3NDc1
 LC0xNTI0MzMwNzQ1LDk4NTUxOTUzLC0xNTYzMTg0NjQ3LC0yMD
 cyNjUxNzYyXX0=
