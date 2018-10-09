@@ -14,7 +14,7 @@ JEECMS 技术文档说明
 |  URL|对应路径|类 |说明 |
 |--|--|--|--|
 | api/admin/content/save|com.jeecms.cms.api.member |ContentApiAct| 文章保存 |
-| api/admin/content/list|com.jeecms.cms.api.admin.main|| 内容列表 |
+| api/admin/content/list|com.jeecms.cms.api.admin.main|ContentApiAct| 内容列表 |
 |  |  ||
 |  |  |
 
@@ -22,8 +22,7 @@ JEECMS 技术文档说明
 | 表名称 |说明  |
 |--|--|
 |jc_config| cms的配置文件|
-| com.jeecms.cms.api.front | 后台管理|
-|  |  |
+
 
 
 You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
@@ -151,8 +150,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMDMxMTY0NSwtODk5NTg1NDUxLC0xMz
-g4NTA0NjEzLDY5OTc3NDY3MCw1NDc3NjczMzEsNjY0MDc3NDc1
-LC0xNTI0MzMwNzQ1LDk4NTUxOTUzLC0xNTYzMTg0NjQ3LC0yMD
-cyNjUxNzYyXX0=
+eyJoaXN0b3J5IjpbMTc1OTk0MzcyNSwtOTIwMzExNjQ1LC04OT
+k1ODU0NTEsLTEzODg1MDQ2MTMsNjk5Nzc0NjcwLDU0Nzc2NzMz
+MSw2NjQwNzc0NzUsLTE1MjQzMzA3NDUsOTg1NTE5NTMsLTE1Nj
+MxODQ2NDcsLTIwNzI2NTE3NjJdfQ==
 -->
